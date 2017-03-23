@@ -1,0 +1,44 @@
+All groups in region 2 at Depth = 8#
+
+Overall accuracy	0.818455
+Average accuracy	0.998342
+Micro-averaged precision	0.818455
+Macro-averaged precision	NaN
+Micro-averaged recall	0.818455
+Macro-averaged recall	NaN
+
+Decision Tree at Depth = 8 (better than 16, 32 surprisingly) (without a particular group)
+
+Overall accuracy	0.634992
+Average accuracy	0.996651
+Micro-averaged precision	0.634992
+Macro-averaged precision	NaN
+Micro-averaged recall	0.634992
+Macro-averaged recall	NaN
+
+Decision Tree at Depth = 4  (without a particular group)
+
+Overall accuracy	0.541478
+Average accuracy	0.995793
+Micro-averaged precision	0.541478
+Macro-averaged precision	NaN
+Micro-averaged recall	0.541478
+Macro-averaged recall	NaN
+
+Jungle at Depth 8, 64 width, region 2 data thresholded  
+
+Overall accuracy	0.824159
+Average accuracy	0.994589
+Micro-averaged precision	0.824159
+Macro-averaged precision	NaN
+Micro-averaged recall	0.824159
+Macro-averaged recall	NaN
+
+VS decision forest
+
+Overall accuracy	0.829506
+Average accuracy	0.994754
+Micro-averaged precision	0.829506
+Macro-averaged precision	NaN
+Micro-averaged recall	0.829506
+Macro-averaged recall	NaN
